@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+senyum dong sayang Biar cepat sehat
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -109,10 +109,12 @@
             <label for="namaRuangan">Nama Ruangan <span class="req">*</span></label>
             <select id="namaRuangan" name="namaRuangan">
               <option value="">Pilih nama ruangan</option>
-              <option>Ruang Kelas I</option><option>Ruang Kelas II</option>
-              <option>Ruang Kelas III</option><option>Ruang VIP</option>
+              <option>Ruang Cendana</option><option>Ruang Lontar</option>
+              <option>Ruang Flamboyan</option><option>Ruang Azalea</option>
+              <option>Ruang Gamalin</option><option>Ruang Angsana</option>
+              <option>Ruang HCU</option><option>Ruang Nicu</option>
               <option>Ruang ICU</option><option>Ruang Perawatan Anak</option>
-              <option>Ruang Bersalin</option><option>Ruang lainnya</option>
+              <option>Ruang Picu</option><option>Ruang lainnya</option>
             </select>
             <p class="hint">Silakan sesuaikan pilihan dengan nama ruangan yang tersedia.</p>
           </div>
